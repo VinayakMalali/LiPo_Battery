@@ -1,2 +1,2 @@
-# LiPo_Battery
-Lithium Poly Battery PCB Designed in Altium Designer
+# LiPo_USB_Charger
+Lithium Poly Charger PCB Designed in Altium Designer
